@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>技术研发部 your office number</p>
-    <p>江淮智慧科技 street</p>
+    <p>技术研发部</p>
+    <p>江淮智慧科技</p>
     <p>HA, JS State</p>
 
 news: true  # includes a list of news items
